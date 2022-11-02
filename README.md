@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JayyyOlden
 
-- ⁉️ I'm a 1st year BSc. Data Science and Analytics student
+- ⁉️ I'm a 2nd year BSc. Data Science and Analytics student
 
 - 🎼 I love listening to Lofi and Video Game OSTs when I'm busy coding
 
